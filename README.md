@@ -1,6 +1,6 @@
 #  sobre mim
 
-- 👋 oi, meu nome é @vvolkyie
+- 👋 oi, meu nome é kathlin
 - 👍 meu email de contato é kathlin.batista@escola.pr.gov.br
 - 👀 eu estou interessade em aprender a programar novas linguagens
 - 🌱 eu estou aprendendo a programar recentemente a linguagens de Javascript e Scratch
